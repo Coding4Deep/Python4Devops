@@ -6,3 +6,10 @@ __pycache__/
 venv/
 env/
 ENV/
+.pynb_checkpoints/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store
+*.log
+*.sqlite3
