@@ -1,5 +1,3 @@
----
-
 ## 🧠 What is **System Python**?
 
 **System Python** refers to the **default Python interpreter** that comes **pre-installed with your operating system** (Linux, macOS, sometimes Windows).
