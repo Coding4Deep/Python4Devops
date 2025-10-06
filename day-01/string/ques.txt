@@ -1,0 +1,150 @@
+Perfect 👍 — practicing is the best way to master Python strings.
+Here’s a **structured set of exercises** — from **easy → intermediate → advanced**, all based on the string concepts and methods we just covered 👇
+
+---
+
+## 🟢 **Level 1 — Basic String Operations**
+
+1. Create a variable `name = "Priyanshu"`.
+
+   * Print the first and last character.
+   * Print the length of the string.
+   * Print only `"yansh"` using slicing.
+
+2. Join the strings `"Hello"` and `"World"` with a space between them.
+
+3. Given `text = "Python"`, print:
+
+   * `PythonPythonPython` using repetition.
+   * The substring `"tho"` using slicing.
+
+4. Check whether `"y"` is present in `"Python"` using the `in` operator.
+
+5. Write a program to reverse a string using slicing.
+
+---
+
+## 🟡 **Level 2 — Case & Whitespace Methods**
+
+6. Convert `"PyThoN Is AwEsoMe"` into:
+
+   * All lowercase
+   * All uppercase
+   * Title case
+
+7. Remove the leading and trailing spaces from the string `"   Hello World   "`.
+
+8. Input a string from the user and:
+
+   * Remove extra spaces
+   * Convert to lowercase
+   * Print the cleaned text
+
+9. Given `text = "   python rocks   "`, use `.strip()`, `.lstrip()`, and `.rstrip()` — show how the outputs differ.
+
+---
+
+## 🟠 **Level 3 — Searching & Checking**
+
+10. For `word = "banana"`, print:
+
+    * The number of `"na"` occurrences.
+    * The index of the first `"na"`.
+    * The index of the last `"na"`.
+
+11. Check if a string starts with `"Hello"` and ends with `"!"`.
+
+12. Ask the user to input a word and check:
+
+    * If it contains only letters (`isalpha()`)
+    * If it contains only digits (`isdigit()`)
+
+13. Given `email = "student@gmail.com"`, verify if:
+
+    * It starts with `"student"`
+    * Ends with `"gmail.com"`
+
+---
+
+## 🔵 **Level 4 — Splitting, Joining & Replacing**
+
+14. Given `sentence = "Python is fun to learn"`,
+
+    * Split the words into a list
+    * Join them again using `-` as a separator.
+
+15. Replace all spaces in `"I love Python"` with underscores (`_`).
+
+16. Convert `"apple,banana,grapes"` into a list of fruits, and print each fruit on a new line.
+
+17. Given `"Hello, my name is Priyanshu"`, replace `"Priyanshu"` with `"Alex"`.
+
+18. Given `"a\tb\tc"`, use `.expandtabs(4)` to display it properly spaced.
+
+---
+
+## 🔴 **Level 5 — Formatting & Validation**
+
+19. Create an f-string to print:
+
+    ```python
+    name = "Riya"
+    age = 22
+    ```
+
+    Output → `"My name is Riya and I am 22 years old."`
+
+20. Given `price = 49.995`, print it as:
+
+    * Rounded to 2 decimal places → `49.99`
+    * Using an f-string → `"The price is $49.99"`
+
+21. Check if the following strings are:
+
+    * `"Hello123"` → alphanumeric
+    * `"1234"` → digits
+    * `"   "` → only whitespace
+    * `"HELLO"` → uppercase
+
+22. Create a string `"Python"` and center it in a width of `20` using `*` as padding.
+
+23. Convert the string `"₹500"` into ASCII-safe bytes and decode it back.
+
+---
+
+## ⚫ **Level 6 — Mini Practice Projects**
+
+24. **Count vowels**: Write a program that counts the number of vowels in a user-given string.
+
+25. **Palindrome check**: Ask the user for a string and check if it reads the same backward.
+
+26. **Word frequency counter**:
+    Input → `"Python is easy, Python is fun"`
+    Output →
+
+    ```
+    Python: 2  
+    is: 2  
+    easy,: 1  
+    fun: 1
+    ```
+
+27. **Email validator (simple)**:
+    Input an email and check:
+
+    * It contains `'@'`
+    * Ends with `'.com'`
+    * Does **not** start with a number
+
+28. **Password Strength Checker**:
+    Check if the password contains:
+
+    * At least one uppercase letter
+    * At least one digit
+    * At least one special character
+    * Minimum length of 8
+
+---
+
+Would you like me to make this into a **printable practice worksheet (PDF)** with space for answers and hints?
+It’s great for revision or offline learning.
