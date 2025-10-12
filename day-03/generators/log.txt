@@ -1,0 +1,500 @@
+{"ts": "2025-05-02 08:58:01+00:00", "level": "WARNING", "message": "Connection to host13.example.com timed out"}
+{"ts": "2025-05-02 08:58:02+00:00", "level": "INFO", "message": "User user86 logged in"}
+{"ts": "2025-05-02 08:58:02+00:00", "level": "DEBUG", "message": "Debugging session started for user user18"}
+{"ts": "2025-05-02 08:58:02+00:00", "level": "INFO", "message": "File file_2.dat processed successfully"}
+{"ts": "2025-05-02 08:58:02+00:00", "level": "DEBUG", "message": "Debugging session started for user user96"}
+{"ts": "2025-05-02 08:58:02+00:00", "level": "DEBUG", "message": "Debugging session started for user user95"}
+{"ts": "2025-05-02 08:58:03+00:00", "level": "WARNING", "message": "Memory usage at 75% exceeded threshold"}
+{"ts": "2025-05-02 08:58:03+00:00", "level": "ERROR", "message": "Database transaction tx4989 rolled back"}
+{"ts": "2025-05-02 08:58:03+00:00", "level": "WARNING", "message": "Memory usage at 50% exceeded threshold"}
+{"ts": "2025-05-02 08:58:04+00:00", "level": "WARNING", "message": "Connection to host10.example.com timed out"}
+{"ts": "2025-05-02 08:58:04+00:00", "level": "DEBUG", "message": "Cache miss for key key_41"}
+{"ts": "2025-05-02 08:58:04+00:00", "level": "WARNING", "message": "Memory usage at 60% exceeded threshold"}
+{"ts": "2025-05-02 08:58:05+00:00", "level": "ERROR", "message": "Database transaction tx8429 rolled back"}
+{"ts": "2025-05-02 08:58:05+00:00", "level": "INFO", "message": "User user60 logged out"}
+{"ts": "2025-05-02 08:58:06+00:00", "level": "INFO", "message": "User user60 logged out"}
+{"ts": "2025-05-02 08:58:06+00:00", "level": "DEBUG", "message": "Cache miss for key key_38"}
+{"ts": "2025-05-02 08:58:07+00:00", "level": "ERROR", "message": "File file_86.dat failed to process"}
+{"ts": "2025-05-02 08:58:07+00:00", "level": "INFO", "message": "User user61 logged in"}
+{"ts": "2025-05-02 08:58:08+00:00", "level": "INFO", "message": "Database transaction tx6846 committed"}
+{"ts": "2025-05-02 08:58:08+00:00", "level": "ERROR", "message": "File file_33.dat failed to process"}
+{"ts": "2025-05-02 08:58:08+00:00", "level": "ERROR", "message": "Database transaction tx5696 rolled back"}
+{"ts": "2025-05-02 08:58:08+00:00", "level": "INFO", "message": "File file_96.dat processed successfully"}
+{"ts": "2025-05-02 08:58:09+00:00", "level": "WARNING", "message": "Connection to host7.example.com timed out"}
+{"ts": "2025-05-02 08:58:09+00:00", "level": "WARNING", "message": "Memory usage at 55% exceeded threshold"}
+{"ts": "2025-05-02 08:58:09+00:00", "level": "DEBUG", "message": "Cache miss for key key_16"}
+{"ts": "2025-05-02 08:58:10+00:00", "level": "WARNING", "message": "Connection to host4.example.com timed out"}
+{"ts": "2025-05-02 08:58:10+00:00", "level": "WARNING", "message": "Connection to host3.example.com timed out"}
+{"ts": "2025-05-02 08:58:10+00:00", "level": "DEBUG", "message": "Cache miss for key key_42"}
+{"ts": "2025-05-02 08:58:11+00:00", "level": "WARNING", "message": "Connection to host6.example.com timed out"}
+{"ts": "2025-05-02 08:58:12+00:00", "level": "INFO", "message": "Database transaction tx5663 committed"}
+{"ts": "2025-05-02 08:58:12+00:00", "level": "WARNING", "message": "Memory usage at 70% exceeded threshold"}
+{"ts": "2025-05-02 08:58:12+00:00", "level": "INFO", "message": "File file_83.dat processed successfully"}
+{"ts": "2025-05-02 08:58:13+00:00", "level": "DEBUG", "message": "Debugging session started for user user47"}
+{"ts": "2025-05-02 08:58:13+00:00", "level": "ERROR", "message": "File file_38.dat failed to process"}
+{"ts": "2025-05-02 08:58:14+00:00", "level": "INFO", "message": "File file_11.dat processed successfully"}
+{"ts": "2025-05-02 08:58:15+00:00", "level": "DEBUG", "message": "Cache miss for key key_30"}
+{"ts": "2025-05-02 08:58:15+00:00", "level": "ERROR", "message": "File file_33.dat failed to process"}
+{"ts": "2025-05-02 08:58:16+00:00", "level": "ERROR", "message": "Database transaction tx6374 rolled back"}
+{"ts": "2025-05-02 08:58:16+00:00", "level": "INFO", "message": "Database transaction tx5052 committed"}
+{"ts": "2025-05-02 08:58:16+00:00", "level": "DEBUG", "message": "Debugging session started for user user46"}
+{"ts": "2025-05-02 08:58:17+00:00", "level": "DEBUG", "message": "Debugging session started for user user57"}
+{"ts": "2025-05-02 08:58:18+00:00", "level": "ERROR", "message": "Database transaction tx5536 rolled back"}
+{"ts": "2025-05-02 08:58:18+00:00", "level": "INFO", "message": "File file_26.dat processed successfully"}
+{"ts": "2025-05-02 08:58:19+00:00", "level": "INFO", "message": "File file_86.dat processed successfully"}
+{"ts": "2025-05-02 08:58:20+00:00", "level": "INFO", "message": "User user97 logged in"}
+{"ts": "2025-05-02 08:58:20+00:00", "level": "INFO", "message": "Database transaction tx2304 committed"}
+{"ts": "2025-05-02 08:58:21+00:00", "level": "INFO", "message": "User user43 logged out"}
+{"ts": "2025-05-02 08:58:21+00:00", "level": "INFO", "message": "Database transaction tx4423 committed"}
+{"ts": "2025-05-02 08:58:21+00:00", "level": "ERROR", "message": "Database transaction tx7832 rolled back"}
+{"ts": "2025-05-02 08:58:22+00:00", "level": "ERROR", "message": "Database transaction tx2096 rolled back"}
+{"ts": "2025-05-02 08:58:23+00:00", "level": "INFO", "message": "File file_36.dat processed successfully"}
+{"ts": "2025-05-02 08:58:23+00:00", "level": "DEBUG", "message": "Cache miss for key key_10"}
+{"ts": "2025-05-02 08:58:24+00:00", "level": "WARNING", "message": "Memory usage at 70% exceeded threshold"}
+{"ts": "2025-05-02 08:58:24+00:00", "level": "DEBUG", "message": "Cache miss for key key_45"}
+{"ts": "2025-05-02 08:58:25+00:00", "level": "WARNING", "message": "Memory usage at 80% exceeded threshold"}
+{"ts": "2025-05-02 08:58:25+00:00", "level": "INFO", "message": "User user21 logged in"}
+{"ts": "2025-05-02 08:58:25+00:00", "level": "INFO", "message": "User user22 logged out"}
+{"ts": "2025-05-02 08:58:26+00:00", "level": "ERROR", "message": "Database transaction tx9626 rolled back"}
+{"ts": "2025-05-02 08:58:26+00:00", "level": "DEBUG", "message": "Debugging session started for user user76"}
+{"ts": "2025-05-02 08:58:27+00:00", "level": "INFO", "message": "User user63 logged in"}
+{"ts": "2025-05-02 08:58:27+00:00", "level": "INFO", "message": "User user87 logged in"}
+{"ts": "2025-05-02 08:58:27+00:00", "level": "ERROR", "message": "Database transaction tx6675 rolled back"}
+{"ts": "2025-05-02 08:58:27+00:00", "level": "WARNING", "message": "Memory usage at 80% exceeded threshold"}
+{"ts": "2025-05-02 08:58:28+00:00", "level": "INFO", "message": "User user91 logged out"}
+{"ts": "2025-05-02 08:58:28+00:00", "level": "WARNING", "message": "Connection to host13.example.com timed out"}
+{"ts": "2025-05-02 08:58:29+00:00", "level": "INFO", "message": "File file_81.dat processed successfully"}
+{"ts": "2025-05-02 08:58:29+00:00", "level": "ERROR", "message": "Database transaction tx9171 rolled back"}
+{"ts": "2025-05-02 08:58:29+00:00", "level": "WARNING", "message": "Memory usage at 100% exceeded threshold"}
+{"ts": "2025-05-02 08:58:30+00:00", "level": "INFO", "message": "User user97 logged out"}
+{"ts": "2025-05-02 08:58:30+00:00", "level": "WARNING", "message": "Connection to host11.example.com timed out"}
+{"ts": "2025-05-02 08:58:31+00:00", "level": "INFO", "message": "User user46 logged out"}
+{"ts": "2025-05-02 08:58:31+00:00", "level": "DEBUG", "message": "Debugging session started for user user88"}
+{"ts": "2025-05-02 08:58:32+00:00", "level": "WARNING", "message": "Memory usage at 60% exceeded threshold"}
+{"ts": "2025-05-02 08:58:32+00:00", "level": "INFO", "message": "User user22 logged in"}
+{"ts": "2025-05-02 08:58:33+00:00", "level": "DEBUG", "message": "Debugging session started for user user92"}
+{"ts": "2025-05-02 08:58:33+00:00", "level": "ERROR", "message": "File file_7.dat failed to process"}
+{"ts": "2025-05-02 08:58:34+00:00", "level": "DEBUG", "message": "Cache miss for key key_49"}
+{"ts": "2025-05-02 08:58:35+00:00", "level": "INFO", "message": "User user17 logged out"}
+{"ts": "2025-05-02 08:58:35+00:00", "level": "INFO", "message": "Database transaction tx6550 committed"}
+{"ts": "2025-05-02 08:58:36+00:00", "level": "INFO", "message": "File file_72.dat processed successfully"}
+{"ts": "2025-05-02 08:58:36+00:00", "level": "ERROR", "message": "File file_30.dat failed to process"}
+{"ts": "2025-05-02 08:58:37+00:00", "level": "WARNING", "message": "Memory usage at 80% exceeded threshold"}
+{"ts": "2025-05-02 08:58:37+00:00", "level": "INFO", "message": "File file_60.dat processed successfully"}
+{"ts": "2025-05-02 08:58:38+00:00", "level": "ERROR", "message": "File file_65.dat failed to process"}
+{"ts": "2025-05-02 08:58:38+00:00", "level": "INFO", "message": "File file_4.dat processed successfully"}
+{"ts": "2025-05-02 08:58:39+00:00", "level": "WARNING", "message": "Memory usage at 70% exceeded threshold"}
+{"ts": "2025-05-02 08:58:39+00:00", "level": "INFO", "message": "User user92 logged in"}
+{"ts": "2025-05-02 08:58:39+00:00", "level": "DEBUG", "message": "Debugging session started for user user65"}
+{"ts": "2025-05-02 08:58:40+00:00", "level": "WARNING", "message": "Memory usage at 85% exceeded threshold"}
+{"ts": "2025-05-02 08:58:40+00:00", "level": "DEBUG", "message": "Cache miss for key key_9"}
+{"ts": "2025-05-02 08:58:41+00:00", "level": "INFO", "message": "User user45 logged in"}
+{"ts": "2025-05-02 08:58:42+00:00", "level": "WARNING", "message": "Memory usage at 95% exceeded threshold"}
+{"ts": "2025-05-02 08:58:42+00:00", "level": "ERROR", "message": "Database transaction tx6622 rolled back"}
+{"ts": "2025-05-02 08:58:43+00:00", "level": "INFO", "message": "Database transaction tx2254 committed"}
+{"ts": "2025-05-02 08:58:43+00:00", "level": "INFO", "message": "User user51 logged out"}
+{"ts": "2025-05-02 08:58:43+00:00", "level": "ERROR", "message": "Database transaction tx6822 rolled back"}
+{"ts": "2025-05-02 08:58:44+00:00", "level": "INFO", "message": "User user25 logged in"}
+{"ts": "2025-05-02 08:58:45+00:00", "level": "INFO", "message": "User user49 logged out"}
+{"ts": "2025-05-02 08:58:45+00:00", "level": "DEBUG", "message": "Debugging session started for user user60"}
+{"ts": "2025-05-02 08:58:46+00:00", "level": "ERROR", "message": "File file_53.dat failed to process"}
+{"ts": "2025-05-02 08:58:46+00:00", "level": "INFO", "message": "Database transaction tx9680 committed"}
+{"ts": "2025-05-02 08:58:47+00:00", "level": "INFO", "message": "User user81 logged in"}
+{"ts": "2025-05-02 08:58:48+00:00", "level": "INFO", "message": "File file_9.dat processed successfully"}
+{"ts": "2025-05-02 08:58:49+00:00", "level": "INFO", "message": "File file_69.dat processed successfully"}
+{"ts": "2025-05-02 08:58:49+00:00", "level": "INFO", "message": "File file_65.dat processed successfully"}
+{"ts": "2025-05-02 08:58:49+00:00", "level": "DEBUG", "message": "Debugging session started for user user29"}
+{"ts": "2025-05-02 08:58:50+00:00", "level": "INFO", "message": "Database transaction tx8008 committed"}
+{"ts": "2025-05-02 08:58:50+00:00", "level": "ERROR", "message": "Database transaction tx6073 rolled back"}
+{"ts": "2025-05-02 08:58:51+00:00", "level": "WARNING", "message": "Memory usage at 75% exceeded threshold"}
+{"ts": "2025-05-02 08:58:51+00:00", "level": "WARNING", "message": "Connection to host7.example.com timed out"}
+{"ts": "2025-05-02 08:58:51+00:00", "level": "DEBUG", "message": "Cache miss for key key_35"}
+{"ts": "2025-05-02 08:58:52+00:00", "level": "INFO", "message": "Database transaction tx1521 committed"}
+{"ts": "2025-05-02 08:58:52+00:00", "level": "DEBUG", "message": "Debugging session started for user user37"}
+{"ts": "2025-05-02 08:58:53+00:00", "level": "INFO", "message": "User user97 logged out"}
+{"ts": "2025-05-02 08:58:54+00:00", "level": "ERROR", "message": "File file_98.dat failed to process"}
+{"ts": "2025-05-02 08:58:55+00:00", "level": "WARNING", "message": "Connection to host9.example.com timed out"}
+{"ts": "2025-05-02 08:58:55+00:00", "level": "INFO", "message": "User user19 logged out"}
+{"ts": "2025-05-02 08:58:56+00:00", "level": "INFO", "message": "User user9 logged in"}
+{"ts": "2025-05-02 08:58:57+00:00", "level": "ERROR", "message": "Database transaction tx6537 rolled back"}
+{"ts": "2025-05-02 08:58:57+00:00", "level": "ERROR", "message": "File file_42.dat failed to process"}
+{"ts": "2025-05-02 08:58:57+00:00", "level": "ERROR", "message": "Database transaction tx6250 rolled back"}
+{"ts": "2025-05-02 08:58:58+00:00", "level": "INFO", "message": "File file_37.dat processed successfully"}
+{"ts": "2025-05-02 08:58:58+00:00", "level": "WARNING", "message": "Connection to host3.example.com timed out"}
+{"ts": "2025-05-02 08:58:59+00:00", "level": "INFO", "message": "User user82 logged in"}
+{"ts": "2025-05-02 08:58:59+00:00", "level": "INFO", "message": "File file_46.dat processed successfully"}
+{"ts": "2025-05-02 08:59:00+00:00", "level": "INFO", "message": "File file_90.dat processed successfully"}
+{"ts": "2025-05-02 08:59:00+00:00", "level": "ERROR", "message": "File file_64.dat failed to process"}
+{"ts": "2025-05-02 08:59:01+00:00", "level": "INFO", "message": "User user55 logged in"}
+{"ts": "2025-05-02 08:59:02+00:00", "level": "ERROR", "message": "File file_59.dat failed to process"}
+{"ts": "2025-05-02 08:59:02+00:00", "level": "DEBUG", "message": "Cache miss for key key_48"}
+{"ts": "2025-05-02 08:59:02+00:00", "level": "WARNING", "message": "Connection to host12.example.com timed out"}
+{"ts": "2025-05-02 08:59:03+00:00", "level": "INFO", "message": "Database transaction tx7089 committed"}
+{"ts": "2025-05-02 08:59:03+00:00", "level": "DEBUG", "message": "Cache miss for key key_30"}
+{"ts": "2025-05-02 08:59:04+00:00", "level": "WARNING", "message": "Connection to host8.example.com timed out"}
+{"ts": "2025-05-02 08:59:04+00:00", "level": "WARNING", "message": "Memory usage at 90% exceeded threshold"}
+{"ts": "2025-05-02 08:59:04+00:00", "level": "INFO", "message": "User user36 logged out"}
+{"ts": "2025-05-02 08:59:05+00:00", "level": "INFO", "message": "Database transaction tx8425 committed"}
+{"ts": "2025-05-02 08:59:06+00:00", "level": "INFO", "message": "File file_48.dat processed successfully"}
+{"ts": "2025-05-02 08:59:06+00:00", "level": "ERROR", "message": "Database transaction tx4689 rolled back"}
+{"ts": "2025-05-02 08:59:07+00:00", "level": "INFO", "message": "User user11 logged in"}
+{"ts": "2025-05-02 08:59:07+00:00", "level": "INFO", "message": "User user68 logged out"}
+{"ts": "2025-05-02 08:59:08+00:00", "level": "WARNING", "message": "Memory usage at 70% exceeded threshold"}
+{"ts": "2025-05-02 08:59:09+00:00", "level": "DEBUG", "message": "Cache miss for key key_17"}
+{"ts": "2025-05-02 08:59:09+00:00", "level": "INFO", "message": "Database transaction tx4720 committed"}
+{"ts": "2025-05-02 08:59:09+00:00", "level": "INFO", "message": "User user8 logged in"}
+{"ts": "2025-05-02 08:59:10+00:00", "level": "INFO", "message": "Database transaction tx6643 committed"}
+{"ts": "2025-05-02 08:59:11+00:00", "level": "DEBUG", "message": "Cache miss for key key_29"}
+{"ts": "2025-05-02 08:59:11+00:00", "level": "DEBUG", "message": "Debugging session started for user user78"}
+{"ts": "2025-05-02 08:59:12+00:00", "level": "INFO", "message": "User user26 logged in"}
+{"ts": "2025-05-02 08:59:12+00:00", "level": "WARNING", "message": "Connection to host6.example.com timed out"}
+{"ts": "2025-05-02 08:59:12+00:00", "level": "INFO", "message": "File file_51.dat processed successfully"}
+{"ts": "2025-05-02 08:59:13+00:00", "level": "INFO", "message": "User user26 logged in"}
+{"ts": "2025-05-02 08:59:13+00:00", "level": "DEBUG", "message": "Cache miss for key key_21"}
+{"ts": "2025-05-02 08:59:14+00:00", "level": "DEBUG", "message": "Debugging session started for user user75"}
+{"ts": "2025-05-02 08:59:14+00:00", "level": "INFO", "message": "User user28 logged in"}
+{"ts": "2025-05-02 08:59:15+00:00", "level": "WARNING", "message": "Memory usage at 50% exceeded threshold"}
+{"ts": "2025-05-02 08:59:16+00:00", "level": "INFO", "message": "User user95 logged out"}
+{"ts": "2025-05-02 08:59:16+00:00", "level": "INFO", "message": "User user17 logged in"}
+{"ts": "2025-05-02 08:59:17+00:00", "level": "DEBUG", "message": "Cache miss for key key_21"}
+{"ts": "2025-05-02 08:59:17+00:00", "level": "INFO", "message": "File file_5.dat processed successfully"}
+{"ts": "2025-05-02 08:59:18+00:00", "level": "INFO", "message": "User user69 logged in"}
+{"ts": "2025-05-02 08:59:18+00:00", "level": "INFO", "message": "User user59 logged out"}
+{"ts": "2025-05-02 08:59:19+00:00", "level": "INFO", "message": "File file_86.dat processed successfully"}
+{"ts": "2025-05-02 08:59:20+00:00", "level": "DEBUG", "message": "Cache miss for key key_47"}
+{"ts": "2025-05-02 08:59:20+00:00", "level": "INFO", "message": "User user99 logged in"}
+{"ts": "2025-05-02 08:59:20+00:00", "level": "DEBUG", "message": "Debugging session started for user user61"}
+{"ts": "2025-05-02 08:59:21+00:00", "level": "INFO", "message": "User user20 logged in"}
+{"ts": "2025-05-02 08:59:21+00:00", "level": "ERROR", "message": "Database transaction tx9222 rolled back"}
+{"ts": "2025-05-02 08:59:21+00:00", "level": "DEBUG", "message": "Debugging session started for user user55"}
+{"ts": "2025-05-02 08:59:22+00:00", "level": "ERROR", "message": "File file_83.dat failed to process"}
+{"ts": "2025-05-02 08:59:22+00:00", "level": "ERROR", "message": "File file_62.dat failed to process"}
+{"ts": "2025-05-02 08:59:23+00:00", "level": "INFO", "message": "User user98 logged in"}
+{"ts": "2025-05-02 08:59:23+00:00", "level": "DEBUG", "message": "Debugging session started for user user97"}
+{"ts": "2025-05-02 08:59:24+00:00", "level": "DEBUG", "message": "Debugging session started for user user85"}
+{"ts": "2025-05-02 08:59:25+00:00", "level": "ERROR", "message": "File file_58.dat failed to process"}
+{"ts": "2025-05-02 08:59:25+00:00", "level": "ERROR", "message": "File file_42.dat failed to process"}
+{"ts": "2025-05-02 08:59:26+00:00", "level": "ERROR", "message": "Database transaction tx8389 rolled back"}
+{"ts": "2025-05-02 08:59:27+00:00", "level": "INFO", "message": "Database transaction tx2385 committed"}
+{"ts": "2025-05-02 08:59:27+00:00", "level": "INFO", "message": "User user84 logged in"}
+{"ts": "2025-05-02 08:59:28+00:00", "level": "INFO", "message": "User user94 logged in"}
+{"ts": "2025-05-02 08:59:29+00:00", "level": "DEBUG", "message": "Cache miss for key key_9"}
+{"ts": "2025-05-02 08:59:30+00:00", "level": "ERROR", "message": "File file_62.dat failed to process"}
+{"ts": "2025-05-02 08:59:31+00:00", "level": "WARNING", "message": "Memory usage at 65% exceeded threshold"}
+{"ts": "2025-05-02 08:59:31+00:00", "level": "WARNING", "message": "Connection to host7.example.com timed out"}
+{"ts": "2025-05-02 08:59:32+00:00", "level": "INFO", "message": "User user9 logged out"}
+{"ts": "2025-05-02 08:59:32+00:00", "level": "DEBUG", "message": "Debugging session started for user user67"}
+{"ts": "2025-05-02 08:59:33+00:00", "level": "INFO", "message": "File file_41.dat processed successfully"}
+{"ts": "2025-05-02 08:59:33+00:00", "level": "DEBUG", "message": "Debugging session started for user user57"}
+{"ts": "2025-05-02 08:59:34+00:00", "level": "WARNING", "message": "Memory usage at 95% exceeded threshold"}
+{"ts": "2025-05-02 08:59:34+00:00", "level": "INFO", "message": "User user12 logged in"}
+{"ts": "2025-05-02 08:59:35+00:00", "level": "INFO", "message": "User user52 logged in"}
+{"ts": "2025-05-02 08:59:35+00:00", "level": "INFO", "message": "User user23 logged out"}
+{"ts": "2025-05-02 08:59:36+00:00", "level": "INFO", "message": "File file_64.dat processed successfully"}
+{"ts": "2025-05-02 08:59:37+00:00", "level": "ERROR", "message": "Database transaction tx8020 rolled back"}
+{"ts": "2025-05-02 08:59:38+00:00", "level": "ERROR", "message": "Database transaction tx6013 rolled back"}
+{"ts": "2025-05-02 08:59:38+00:00", "level": "ERROR", "message": "File file_36.dat failed to process"}
+{"ts": "2025-05-02 08:59:39+00:00", "level": "INFO", "message": "File file_14.dat processed successfully"}
+{"ts": "2025-05-02 08:59:39+00:00", "level": "INFO", "message": "User user16 logged in"}
+{"ts": "2025-05-02 08:59:39+00:00", "level": "WARNING", "message": "Memory usage at 80% exceeded threshold"}
+{"ts": "2025-05-02 08:59:40+00:00", "level": "DEBUG", "message": "Cache miss for key key_30"}
+{"ts": "2025-05-02 08:59:41+00:00", "level": "WARNING", "message": "Connection to host16.example.com timed out"}
+{"ts": "2025-05-02 08:59:41+00:00", "level": "INFO", "message": "User user68 logged out"}
+{"ts": "2025-05-02 08:59:41+00:00", "level": "WARNING", "message": "Memory usage at 55% exceeded threshold"}
+{"ts": "2025-05-02 08:59:42+00:00", "level": "INFO", "message": "Database transaction tx3754 committed"}
+{"ts": "2025-05-02 08:59:43+00:00", "level": "ERROR", "message": "Database transaction tx8763 rolled back"}
+{"ts": "2025-05-02 08:59:43+00:00", "level": "ERROR", "message": "File file_60.dat failed to process"}
+{"ts": "2025-05-02 08:59:43+00:00", "level": "INFO", "message": "User user13 logged in"}
+{"ts": "2025-05-02 08:59:44+00:00", "level": "ERROR", "message": "File file_72.dat failed to process"}
+{"ts": "2025-05-02 08:59:44+00:00", "level": "INFO", "message": "User user98 logged in"}
+{"ts": "2025-05-02 08:59:45+00:00", "level": "DEBUG", "message": "Cache miss for key key_39"}
+{"ts": "2025-05-02 08:59:45+00:00", "level": "INFO", "message": "File file_60.dat processed successfully"}
+{"ts": "2025-05-02 08:59:46+00:00", "level": "INFO", "message": "Database transaction tx2110 committed"}
+{"ts": "2025-05-02 08:59:46+00:00", "level": "INFO", "message": "User user75 logged in"}
+{"ts": "2025-05-02 08:59:47+00:00", "level": "DEBUG", "message": "Cache miss for key key_14"}
+{"ts": "2025-05-02 08:59:47+00:00", "level": "DEBUG", "message": "Debugging session started for user user81"}
+{"ts": "2025-05-02 08:59:48+00:00", "level": "INFO", "message": "Database transaction tx3711 committed"}
+{"ts": "2025-05-02 08:59:48+00:00", "level": "WARNING", "message": "Connection to host5.example.com timed out"}
+{"ts": "2025-05-02 08:59:48+00:00", "level": "ERROR", "message": "File file_35.dat failed to process"}
+{"ts": "2025-05-02 08:59:49+00:00", "level": "WARNING", "message": "Memory usage at 55% exceeded threshold"}
+{"ts": "2025-05-02 08:59:50+00:00", "level": "INFO", "message": "User user33 logged out"}
+{"ts": "2025-05-02 08:59:50+00:00", "level": "ERROR", "message": "Database transaction tx7410 rolled back"}
+{"ts": "2025-05-02 08:59:50+00:00", "level": "INFO", "message": "User user39 logged in"}
+{"ts": "2025-05-02 08:59:51+00:00", "level": "WARNING", "message": "Memory usage at 50% exceeded threshold"}
+{"ts": "2025-05-02 08:59:51+00:00", "level": "WARNING", "message": "Memory usage at 95% exceeded threshold"}
+{"ts": "2025-05-02 08:59:52+00:00", "level": "WARNING", "message": "Memory usage at 50% exceeded threshold"}
+{"ts": "2025-05-02 08:59:53+00:00", "level": "INFO", "message": "File file_6.dat processed successfully"}
+{"ts": "2025-05-02 08:59:53+00:00", "level": "ERROR", "message": "File file_71.dat failed to process"}
+{"ts": "2025-05-02 08:59:54+00:00", "level": "INFO", "message": "File file_98.dat processed successfully"}
+{"ts": "2025-05-02 08:59:54+00:00", "level": "DEBUG", "message": "Debugging session started for user user32"}
+{"ts": "2025-05-02 08:59:54+00:00", "level": "DEBUG", "message": "Debugging session started for user user67"}
+{"ts": "2025-05-02 08:59:55+00:00", "level": "ERROR", "message": "Database transaction tx6652 rolled back"}
+{"ts": "2025-05-02 08:59:56+00:00", "level": "ERROR", "message": "File file_72.dat failed to process"}
+{"ts": "2025-05-02 08:59:57+00:00", "level": "ERROR", "message": "Database transaction tx9436 rolled back"}
+{"ts": "2025-05-02 08:59:57+00:00", "level": "WARNING", "message": "Memory usage at 95% exceeded threshold"}
+{"ts": "2025-05-02 08:59:57+00:00", "level": "ERROR", "message": "File file_84.dat failed to process"}
+{"ts": "2025-05-02 08:59:57+00:00", "level": "WARNING", "message": "Connection to host3.example.com timed out"}
+{"ts": "2025-05-02 08:59:57+00:00", "level": "DEBUG", "message": "Cache miss for key key_36"}
+{"ts": "2025-05-02 08:59:58+00:00", "level": "WARNING", "message": "Connection to host15.example.com timed out"}
+{"ts": "2025-05-02 08:59:59+00:00", "level": "DEBUG", "message": "Cache miss for key key_33"}
+{"ts": "2025-05-02 08:59:59+00:00", "level": "DEBUG", "message": "Cache miss for key key_2"}
+{"ts": "2025-05-02 09:00:00+00:00", "level": "DEBUG", "message": "Cache miss for key key_2"}
+{"ts": "2025-05-02 09:00:01+00:00", "level": "INFO", "message": "File file_21.dat processed successfully"}
+{"ts": "2025-05-02 09:00:01+00:00", "level": "INFO", "message": "User user55 logged out"}
+{"ts": "2025-05-02 09:00:01+00:00", "level": "INFO", "message": "Database transaction tx1476 committed"}
+{"ts": "2025-05-02 09:00:02+00:00", "level": "DEBUG", "message": "Debugging session started for user user80"}
+{"ts": "2025-05-02 09:00:03+00:00", "level": "ERROR", "message": "Database transaction tx5224 rolled back"}
+{"ts": "2025-05-02 09:00:03+00:00", "level": "DEBUG", "message": "Debugging session started for user user41"}
+{"ts": "2025-05-02 09:00:04+00:00", "level": "WARNING", "message": "Memory usage at 55% exceeded threshold"}
+{"ts": "2025-05-02 09:00:04+00:00", "level": "WARNING", "message": "Connection to host14.example.com timed out"}
+{"ts": "2025-05-02 09:00:05+00:00", "level": "ERROR", "message": "File file_82.dat failed to process"}
+{"ts": "2025-05-02 09:00:05+00:00", "level": "INFO", "message": "File file_54.dat processed successfully"}
+{"ts": "2025-05-02 09:00:06+00:00", "level": "WARNING", "message": "Memory usage at 65% exceeded threshold"}
+{"ts": "2025-05-02 09:00:07+00:00", "level": "WARNING", "message": "Connection to host13.example.com timed out"}
+{"ts": "2025-05-02 09:00:08+00:00", "level": "WARNING", "message": "Memory usage at 85% exceeded threshold"}
+{"ts": "2025-05-02 09:00:08+00:00", "level": "INFO", "message": "Database transaction tx3803 committed"}
+{"ts": "2025-05-02 09:00:08+00:00", "level": "ERROR", "message": "File file_71.dat failed to process"}
+{"ts": "2025-05-02 09:00:09+00:00", "level": "DEBUG", "message": "Debugging session started for user user86"}
+{"ts": "2025-05-02 09:00:10+00:00", "level": "ERROR", "message": "File file_58.dat failed to process"}
+{"ts": "2025-05-02 09:00:11+00:00", "level": "INFO", "message": "User user25 logged out"}
+{"ts": "2025-05-02 09:00:11+00:00", "level": "DEBUG", "message": "Cache miss for key key_29"}
+{"ts": "2025-05-02 09:00:11+00:00", "level": "ERROR", "message": "Database transaction tx1530 rolled back"}
+{"ts": "2025-05-02 09:00:12+00:00", "level": "WARNING", "message": "Memory usage at 50% exceeded threshold"}
+{"ts": "2025-05-02 09:00:12+00:00", "level": "WARNING", "message": "Memory usage at 75% exceeded threshold"}
+{"ts": "2025-05-02 09:00:13+00:00", "level": "INFO", "message": "File file_54.dat processed successfully"}
+{"ts": "2025-05-02 09:00:13+00:00", "level": "INFO", "message": "File file_72.dat processed successfully"}
+{"ts": "2025-05-02 09:00:14+00:00", "level": "WARNING", "message": "Memory usage at 100% exceeded threshold"}
+{"ts": "2025-05-02 09:00:15+00:00", "level": "INFO", "message": "User user51 logged out"}
+{"ts": "2025-05-02 09:00:15+00:00", "level": "DEBUG", "message": "Debugging session started for user user74"}
+{"ts": "2025-05-02 09:00:16+00:00", "level": "ERROR", "message": "File file_98.dat failed to process"}
+{"ts": "2025-05-02 09:00:17+00:00", "level": "WARNING", "message": "Memory usage at 85% exceeded threshold"}
+{"ts": "2025-05-02 09:00:17+00:00", "level": "INFO", "message": "Database transaction tx3006 committed"}
+{"ts": "2025-05-02 09:00:18+00:00", "level": "WARNING", "message": "Memory usage at 60% exceeded threshold"}
+{"ts": "2025-05-02 09:00:18+00:00", "level": "WARNING", "message": "Connection to host1.example.com timed out"}
+{"ts": "2025-05-02 09:00:19+00:00", "level": "DEBUG", "message": "Cache miss for key key_34"}
+{"ts": "2025-05-02 09:00:19+00:00", "level": "ERROR", "message": "File file_75.dat failed to process"}
+{"ts": "2025-05-02 09:00:20+00:00", "level": "WARNING", "message": "Connection to host12.example.com timed out"}
+{"ts": "2025-05-02 09:00:21+00:00", "level": "INFO", "message": "Database transaction tx8353 committed"}
+{"ts": "2025-05-02 09:00:21+00:00", "level": "WARNING", "message": "Memory usage at 75% exceeded threshold"}
+{"ts": "2025-05-02 09:00:21+00:00", "level": "ERROR", "message": "Database transaction tx8435 rolled back"}
+{"ts": "2025-05-02 09:00:22+00:00", "level": "ERROR", "message": "Database transaction tx7327 rolled back"}
+{"ts": "2025-05-02 09:00:22+00:00", "level": "DEBUG", "message": "Cache miss for key key_37"}
+{"ts": "2025-05-02 09:00:22+00:00", "level": "ERROR", "message": "Database transaction tx1399 rolled back"}
+{"ts": "2025-05-02 09:00:22+00:00", "level": "WARNING", "message": "Connection to host20.example.com timed out"}
+{"ts": "2025-05-02 09:00:22+00:00", "level": "ERROR", "message": "File file_28.dat failed to process"}
+{"ts": "2025-05-02 09:00:23+00:00", "level": "ERROR", "message": "File file_30.dat failed to process"}
+{"ts": "2025-05-02 09:00:24+00:00", "level": "ERROR", "message": "Database transaction tx7487 rolled back"}
+{"ts": "2025-05-02 09:00:24+00:00", "level": "INFO", "message": "File file_70.dat processed successfully"}
+{"ts": "2025-05-02 09:00:25+00:00", "level": "DEBUG", "message": "Debugging session started for user user94"}
+{"ts": "2025-05-02 09:00:25+00:00", "level": "INFO", "message": "User user60 logged in"}
+{"ts": "2025-05-02 09:00:26+00:00", "level": "ERROR", "message": "File file_65.dat failed to process"}
+{"ts": "2025-05-02 09:00:26+00:00", "level": "INFO", "message": "Database transaction tx4516 committed"}
+{"ts": "2025-05-02 09:00:26+00:00", "level": "WARNING", "message": "Memory usage at 70% exceeded threshold"}
+{"ts": "2025-05-02 09:00:27+00:00", "level": "DEBUG", "message": "Cache miss for key key_27"}
+{"ts": "2025-05-02 09:00:27+00:00", "level": "INFO", "message": "User user15 logged in"}
+{"ts": "2025-05-02 09:00:27+00:00", "level": "ERROR", "message": "File file_95.dat failed to process"}
+{"ts": "2025-05-02 09:00:28+00:00", "level": "ERROR", "message": "Database transaction tx1853 rolled back"}
+{"ts": "2025-05-02 09:00:28+00:00", "level": "INFO", "message": "User user78 logged out"}
+{"ts": "2025-05-02 09:00:29+00:00", "level": "DEBUG", "message": "Cache miss for key key_2"}
+{"ts": "2025-05-02 09:00:30+00:00", "level": "WARNING", "message": "Memory usage at 100% exceeded threshold"}
+{"ts": "2025-05-02 09:00:31+00:00", "level": "DEBUG", "message": "Cache miss for key key_30"}
+{"ts": "2025-05-02 09:00:31+00:00", "level": "DEBUG", "message": "Debugging session started for user user21"}
+{"ts": "2025-05-02 09:00:32+00:00", "level": "DEBUG", "message": "Cache miss for key key_44"}
+{"ts": "2025-05-02 09:00:32+00:00", "level": "ERROR", "message": "File file_83.dat failed to process"}
+{"ts": "2025-05-02 09:00:33+00:00", "level": "WARNING", "message": "Memory usage at 50% exceeded threshold"}
+{"ts": "2025-05-02 09:00:34+00:00", "level": "WARNING", "message": "Memory usage at 65% exceeded threshold"}
+{"ts": "2025-05-02 09:00:34+00:00", "level": "INFO", "message": "Database transaction tx4622 committed"}
+{"ts": "2025-05-02 09:00:34+00:00", "level": "ERROR", "message": "File file_12.dat failed to process"}
+{"ts": "2025-05-02 09:00:35+00:00", "level": "DEBUG", "message": "Debugging session started for user user25"}
+{"ts": "2025-05-02 09:00:35+00:00", "level": "WARNING", "message": "Memory usage at 75% exceeded threshold"}
+{"ts": "2025-05-02 09:00:36+00:00", "level": "INFO", "message": "File file_2.dat processed successfully"}
+{"ts": "2025-05-02 09:00:37+00:00", "level": "INFO", "message": "File file_35.dat processed successfully"}
+{"ts": "2025-05-02 09:00:37+00:00", "level": "DEBUG", "message": "Cache miss for key key_2"}
+{"ts": "2025-05-02 09:00:37+00:00", "level": "INFO", "message": "File file_3.dat processed successfully"}
+{"ts": "2025-05-02 09:00:37+00:00", "level": "INFO", "message": "User user63 logged in"}
+{"ts": "2025-05-02 09:00:38+00:00", "level": "ERROR", "message": "Database transaction tx5052 rolled back"}
+{"ts": "2025-05-02 09:00:38+00:00", "level": "ERROR", "message": "File file_1.dat failed to process"}
+{"ts": "2025-05-02 09:00:38+00:00", "level": "INFO", "message": "User user97 logged out"}
+{"ts": "2025-05-02 09:00:39+00:00", "level": "WARNING", "message": "Memory usage at 60% exceeded threshold"}
+{"ts": "2025-05-02 09:00:39+00:00", "level": "INFO", "message": "Database transaction tx3064 committed"}
+{"ts": "2025-05-02 09:00:40+00:00", "level": "WARNING", "message": "Memory usage at 100% exceeded threshold"}
+{"ts": "2025-05-02 09:00:41+00:00", "level": "DEBUG", "message": "Cache miss for key key_43"}
+{"ts": "2025-05-02 09:00:41+00:00", "level": "WARNING", "message": "Memory usage at 50% exceeded threshold"}
+{"ts": "2025-05-02 09:00:42+00:00", "level": "WARNING", "message": "Connection to host17.example.com timed out"}
+{"ts": "2025-05-02 09:00:43+00:00", "level": "DEBUG", "message": "Debugging session started for user user10"}
+{"ts": "2025-05-02 09:00:44+00:00", "level": "WARNING", "message": "Memory usage at 85% exceeded threshold"}
+{"ts": "2025-05-02 09:00:44+00:00", "level": "WARNING", "message": "Memory usage at 70% exceeded threshold"}
+{"ts": "2025-05-02 09:00:44+00:00", "level": "DEBUG", "message": "Cache miss for key key_41"}
+{"ts": "2025-05-02 09:00:44+00:00", "level": "DEBUG", "message": "Cache miss for key key_30"}
+{"ts": "2025-05-02 09:00:45+00:00", "level": "WARNING", "message": "Connection to host13.example.com timed out"}
+{"ts": "2025-05-02 09:00:45+00:00", "level": "WARNING", "message": "Connection to host4.example.com timed out"}
+{"ts": "2025-05-02 09:00:46+00:00", "level": "WARNING", "message": "Connection to host18.example.com timed out"}
+{"ts": "2025-05-02 09:00:46+00:00", "level": "INFO", "message": "User user47 logged in"}
+{"ts": "2025-05-02 09:00:47+00:00", "level": "INFO", "message": "Database transaction tx6992 committed"}
+{"ts": "2025-05-02 09:00:47+00:00", "level": "INFO", "message": "File file_86.dat processed successfully"}
+{"ts": "2025-05-02 09:00:47+00:00", "level": "DEBUG", "message": "Debugging session started for user user27"}
+{"ts": "2025-05-02 09:00:48+00:00", "level": "DEBUG", "message": "Cache miss for key key_47"}
+{"ts": "2025-05-02 09:00:48+00:00", "level": "WARNING", "message": "Connection to host8.example.com timed out"}
+{"ts": "2025-05-02 09:00:48+00:00", "level": "INFO", "message": "User user66 logged in"}
+{"ts": "2025-05-02 09:00:48+00:00", "level": "WARNING", "message": "Memory usage at 65% exceeded threshold"}
+{"ts": "2025-05-02 09:00:49+00:00", "level": "ERROR", "message": "Database transaction tx3703 rolled back"}
+{"ts": "2025-05-02 09:00:49+00:00", "level": "DEBUG", "message": "Cache miss for key key_17"}
+{"ts": "2025-05-02 09:00:49+00:00", "level": "WARNING", "message": "Connection to host1.example.com timed out"}
+{"ts": "2025-05-02 09:00:50+00:00", "level": "INFO", "message": "File file_23.dat processed successfully"}
+{"ts": "2025-05-02 09:00:50+00:00", "level": "ERROR", "message": "Database transaction tx9044 rolled back"}
+{"ts": "2025-05-02 09:00:50+00:00", "level": "DEBUG", "message": "Cache miss for key key_10"}
+{"ts": "2025-05-02 09:00:51+00:00", "level": "WARNING", "message": "Connection to host6.example.com timed out"}
+{"ts": "2025-05-02 09:00:52+00:00", "level": "DEBUG", "message": "Cache miss for key key_23"}
+{"ts": "2025-05-02 09:00:52+00:00", "level": "ERROR", "message": "Database transaction tx5175 rolled back"}
+{"ts": "2025-05-02 09:00:53+00:00", "level": "WARNING", "message": "Connection to host6.example.com timed out"}
+{"ts": "2025-05-02 09:00:54+00:00", "level": "WARNING", "message": "Memory usage at 75% exceeded threshold"}
+{"ts": "2025-05-02 09:00:54+00:00", "level": "INFO", "message": "File file_99.dat processed successfully"}
+{"ts": "2025-05-02 09:00:55+00:00", "level": "ERROR", "message": "File file_41.dat failed to process"}
+{"ts": "2025-05-02 09:00:56+00:00", "level": "WARNING", "message": "Connection to host5.example.com timed out"}
+{"ts": "2025-05-02 09:00:56+00:00", "level": "INFO", "message": "File file_23.dat processed successfully"}
+{"ts": "2025-05-02 09:00:56+00:00", "level": "DEBUG", "message": "Cache miss for key key_42"}
+{"ts": "2025-05-02 09:00:57+00:00", "level": "ERROR", "message": "File file_20.dat failed to process"}
+{"ts": "2025-05-02 09:00:58+00:00", "level": "DEBUG", "message": "Debugging session started for user user50"}
+{"ts": "2025-05-02 09:00:59+00:00", "level": "WARNING", "message": "Connection to host8.example.com timed out"}
+{"ts": "2025-05-02 09:01:00+00:00", "level": "INFO", "message": "User user70 logged in"}
+{"ts": "2025-05-02 09:01:00+00:00", "level": "WARNING", "message": "Memory usage at 70% exceeded threshold"}
+{"ts": "2025-05-02 09:01:00+00:00", "level": "DEBUG", "message": "Debugging session started for user user5"}
+{"ts": "2025-05-02 09:01:00+00:00", "level": "WARNING", "message": "Connection to host4.example.com timed out"}
+{"ts": "2025-05-02 09:01:01+00:00", "level": "ERROR", "message": "Database transaction tx4721 rolled back"}
+{"ts": "2025-05-02 09:01:01+00:00", "level": "DEBUG", "message": "Cache miss for key key_40"}
+{"ts": "2025-05-02 09:01:01+00:00", "level": "INFO", "message": "User user4 logged out"}
+{"ts": "2025-05-02 09:01:02+00:00", "level": "INFO", "message": "Database transaction tx3385 committed"}
+{"ts": "2025-05-02 09:01:02+00:00", "level": "INFO", "message": "Database transaction tx1616 committed"}
+{"ts": "2025-05-02 09:01:03+00:00", "level": "INFO", "message": "User user66 logged out"}
+{"ts": "2025-05-02 09:01:04+00:00", "level": "ERROR", "message": "Database transaction tx8683 rolled back"}
+{"ts": "2025-05-02 09:01:04+00:00", "level": "INFO", "message": "User user16 logged out"}
+{"ts": "2025-05-02 09:01:04+00:00", "level": "WARNING", "message": "Memory usage at 70% exceeded threshold"}
+{"ts": "2025-05-02 09:01:05+00:00", "level": "DEBUG", "message": "Cache miss for key key_10"}
+{"ts": "2025-05-02 09:01:05+00:00", "level": "ERROR", "message": "Database transaction tx4181 rolled back"}
+{"ts": "2025-05-02 09:01:05+00:00", "level": "DEBUG", "message": "Cache miss for key key_19"}
+{"ts": "2025-05-02 09:01:06+00:00", "level": "WARNING", "message": "Connection to host6.example.com timed out"}
+{"ts": "2025-05-02 09:01:06+00:00", "level": "INFO", "message": "Database transaction tx3790 committed"}
+{"ts": "2025-05-02 09:01:07+00:00", "level": "ERROR", "message": "Database transaction tx1620 rolled back"}
+{"ts": "2025-05-02 09:01:07+00:00", "level": "INFO", "message": "User user68 logged in"}
+{"ts": "2025-05-02 09:01:08+00:00", "level": "INFO", "message": "User user52 logged in"}
+{"ts": "2025-05-02 09:01:08+00:00", "level": "DEBUG", "message": "Cache miss for key key_43"}
+{"ts": "2025-05-02 09:01:09+00:00", "level": "INFO", "message": "Database transaction tx4479 committed"}
+{"ts": "2025-05-02 09:01:09+00:00", "level": "WARNING", "message": "Memory usage at 90% exceeded threshold"}
+{"ts": "2025-05-02 09:01:10+00:00", "level": "ERROR", "message": "Database transaction tx7871 rolled back"}
+{"ts": "2025-05-02 09:01:10+00:00", "level": "ERROR", "message": "Database transaction tx3923 rolled back"}
+{"ts": "2025-05-02 09:01:11+00:00", "level": "INFO", "message": "User user27 logged out"}
+{"ts": "2025-05-02 09:01:12+00:00", "level": "INFO", "message": "User user70 logged in"}
+{"ts": "2025-05-02 09:01:12+00:00", "level": "INFO", "message": "File file_14.dat processed successfully"}
+{"ts": "2025-05-02 09:01:12+00:00", "level": "INFO", "message": "User user31 logged in"}
+{"ts": "2025-05-02 09:01:13+00:00", "level": "ERROR", "message": "File file_25.dat failed to process"}
+{"ts": "2025-05-02 09:01:14+00:00", "level": "DEBUG", "message": "Cache miss for key key_44"}
+{"ts": "2025-05-02 09:01:14+00:00", "level": "INFO", "message": "Database transaction tx4670 committed"}
+{"ts": "2025-05-02 09:01:15+00:00", "level": "INFO", "message": "User user83 logged in"}
+{"ts": "2025-05-02 09:01:15+00:00", "level": "INFO", "message": "File file_100.dat processed successfully"}
+{"ts": "2025-05-02 09:01:15+00:00", "level": "INFO", "message": "User user100 logged in"}
+{"ts": "2025-05-02 09:01:16+00:00", "level": "INFO", "message": "File file_64.dat processed successfully"}
+{"ts": "2025-05-02 09:01:17+00:00", "level": "DEBUG", "message": "Debugging session started for user user57"}
+{"ts": "2025-05-02 09:01:17+00:00", "level": "ERROR", "message": "Database transaction tx9223 rolled back"}
+{"ts": "2025-05-02 09:01:18+00:00", "level": "WARNING", "message": "Connection to host9.example.com timed out"}
+{"ts": "2025-05-02 09:01:19+00:00", "level": "WARNING", "message": "Memory usage at 50% exceeded threshold"}
+{"ts": "2025-05-02 09:01:19+00:00", "level": "ERROR", "message": "Database transaction tx6837 rolled back"}
+{"ts": "2025-05-02 09:01:19+00:00", "level": "DEBUG", "message": "Cache miss for key key_8"}
+{"ts": "2025-05-02 09:01:19+00:00", "level": "INFO", "message": "File file_43.dat processed successfully"}
+{"ts": "2025-05-02 09:01:20+00:00", "level": "ERROR", "message": "File file_31.dat failed to process"}
+{"ts": "2025-05-02 09:01:20+00:00", "level": "WARNING", "message": "Memory usage at 95% exceeded threshold"}
+{"ts": "2025-05-02 09:01:21+00:00", "level": "WARNING", "message": "Connection to host17.example.com timed out"}
+{"ts": "2025-05-02 09:01:21+00:00", "level": "ERROR", "message": "Database transaction tx9703 rolled back"}
+{"ts": "2025-05-02 09:01:22+00:00", "level": "DEBUG", "message": "Debugging session started for user user78"}
+{"ts": "2025-05-02 09:01:23+00:00", "level": "WARNING", "message": "Connection to host10.example.com timed out"}
+{"ts": "2025-05-02 09:01:23+00:00", "level": "DEBUG", "message": "Cache miss for key key_16"}
+{"ts": "2025-05-02 09:01:23+00:00", "level": "INFO", "message": "File file_7.dat processed successfully"}
+{"ts": "2025-05-02 09:01:23+00:00", "level": "DEBUG", "message": "Debugging session started for user user37"}
+{"ts": "2025-05-02 09:01:24+00:00", "level": "INFO", "message": "User user53 logged out"}
+{"ts": "2025-05-02 09:01:25+00:00", "level": "INFO", "message": "Database transaction tx9900 committed"}
+{"ts": "2025-05-02 09:01:25+00:00", "level": "INFO", "message": "File file_54.dat processed successfully"}
+{"ts": "2025-05-02 09:01:26+00:00", "level": "ERROR", "message": "File file_22.dat failed to process"}
+{"ts": "2025-05-02 09:01:27+00:00", "level": "INFO", "message": "File file_90.dat processed successfully"}
+{"ts": "2025-05-02 09:01:27+00:00", "level": "INFO", "message": "User user66 logged out"}
+{"ts": "2025-05-02 09:01:28+00:00", "level": "DEBUG", "message": "Debugging session started for user user1"}
+{"ts": "2025-05-02 09:01:29+00:00", "level": "INFO", "message": "Database transaction tx2556 committed"}
+{"ts": "2025-05-02 09:01:30+00:00", "level": "DEBUG", "message": "Debugging session started for user user91"}
+{"ts": "2025-05-02 09:01:30+00:00", "level": "INFO", "message": "Database transaction tx2511 committed"}
+{"ts": "2025-05-02 09:01:31+00:00", "level": "INFO", "message": "Database transaction tx3424 committed"}
+{"ts": "2025-05-02 09:01:31+00:00", "level": "WARNING", "message": "Memory usage at 75% exceeded threshold"}
+{"ts": "2025-05-02 09:01:31+00:00", "level": "ERROR", "message": "File file_87.dat failed to process"}
+{"ts": "2025-05-02 09:01:32+00:00", "level": "ERROR", "message": "Database transaction tx3847 rolled back"}
+{"ts": "2025-05-02 09:01:33+00:00", "level": "INFO", "message": "Database transaction tx2721 committed"}
+{"ts": "2025-05-02 09:01:34+00:00", "level": "INFO", "message": "File file_42.dat processed successfully"}
+{"ts": "2025-05-02 09:01:34+00:00", "level": "DEBUG", "message": "Cache miss for key key_5"}
+{"ts": "2025-05-02 09:01:35+00:00", "level": "INFO", "message": "File file_38.dat processed successfully"}
+{"ts": "2025-05-02 09:01:35+00:00", "level": "INFO", "message": "File file_73.dat processed successfully"}
+{"ts": "2025-05-02 09:01:36+00:00", "level": "ERROR", "message": "Database transaction tx6624 rolled back"}
+{"ts": "2025-05-02 09:01:37+00:00", "level": "ERROR", "message": "Database transaction tx9196 rolled back"}
+{"ts": "2025-05-02 09:01:37+00:00", "level": "ERROR", "message": "Database transaction tx7209 rolled back"}
+{"ts": "2025-05-02 09:01:38+00:00", "level": "WARNING", "message": "Connection to host20.example.com timed out"}
+{"ts": "2025-05-02 09:01:38+00:00", "level": "INFO", "message": "File file_75.dat processed successfully"}
+{"ts": "2025-05-02 09:01:39+00:00", "level": "WARNING", "message": "Connection to host11.example.com timed out"}
+{"ts": "2025-05-02 09:01:40+00:00", "level": "DEBUG", "message": "Cache miss for key key_5"}
+{"ts": "2025-05-02 09:01:41+00:00", "level": "INFO", "message": "User user28 logged in"}
+{"ts": "2025-05-02 09:01:41+00:00", "level": "WARNING", "message": "Memory usage at 50% exceeded threshold"}
+{"ts": "2025-05-02 09:01:42+00:00", "level": "DEBUG", "message": "Debugging session started for user user46"}
+{"ts": "2025-05-02 09:01:42+00:00", "level": "WARNING", "message": "Connection to host19.example.com timed out"}
+{"ts": "2025-05-02 09:01:43+00:00", "level": "INFO", "message": "User user62 logged out"}
+{"ts": "2025-05-02 09:01:44+00:00", "level": "INFO", "message": "Database transaction tx1413 committed"}
+{"ts": "2025-05-02 09:01:44+00:00", "level": "ERROR", "message": "File file_93.dat failed to process"}
+{"ts": "2025-05-02 09:01:44+00:00", "level": "WARNING", "message": "Connection to host20.example.com timed out"}
+{"ts": "2025-05-02 09:01:45+00:00", "level": "DEBUG", "message": "Cache miss for key key_16"}
+{"ts": "2025-05-02 09:01:46+00:00", "level": "ERROR", "message": "File file_57.dat failed to process"}
+{"ts": "2025-05-02 09:01:46+00:00", "level": "ERROR", "message": "Database transaction tx9374 rolled back"}
+{"ts": "2025-05-02 09:01:47+00:00", "level": "INFO", "message": "Database transaction tx4390 committed"}
+{"ts": "2025-05-02 09:01:47+00:00", "level": "INFO", "message": "File file_56.dat processed successfully"}
+{"ts": "2025-05-02 09:01:48+00:00", "level": "ERROR", "message": "File file_73.dat failed to process"}
+{"ts": "2025-05-02 09:01:48+00:00", "level": "INFO", "message": "User user6 logged in"}
+{"ts": "2025-05-02 09:01:48+00:00", "level": "DEBUG", "message": "Debugging session started for user user28"}
+{"ts": "2025-05-02 09:01:49+00:00", "level": "ERROR", "message": "Database transaction tx7159 rolled back"}
+{"ts": "2025-05-02 09:01:49+00:00", "level": "INFO", "message": "File file_83.dat processed successfully"}
+{"ts": "2025-05-02 09:01:50+00:00", "level": "DEBUG", "message": "Debugging session started for user user77"}
+{"ts": "2025-05-02 09:01:50+00:00", "level": "INFO", "message": "Database transaction tx7015 committed"}
+{"ts": "2025-05-02 09:01:51+00:00", "level": "ERROR", "message": "File file_96.dat failed to process"}
+{"ts": "2025-05-02 09:01:52+00:00", "level": "DEBUG", "message": "Debugging session started for user user12"}
+{"ts": "2025-05-02 09:01:52+00:00", "level": "WARNING", "message": "Memory usage at 50% exceeded threshold"}
+{"ts": "2025-05-02 09:01:53+00:00", "level": "DEBUG", "message": "Cache miss for key key_27"}
+{"ts": "2025-05-02 09:01:53+00:00", "level": "WARNING", "message": "Memory usage at 100% exceeded threshold"}
+{"ts": "2025-05-02 09:01:54+00:00", "level": "WARNING", "message": "Memory usage at 70% exceeded threshold"}
+{"ts": "2025-05-02 09:01:55+00:00", "level": "DEBUG", "message": "Cache miss for key key_6"}
+{"ts": "2025-05-02 09:01:55+00:00", "level": "WARNING", "message": "Memory usage at 65% exceeded threshold"}
+{"ts": "2025-05-02 09:01:55+00:00", "level": "ERROR", "message": "File file_70.dat failed to process"}
+{"ts": "2025-05-02 09:01:56+00:00", "level": "INFO", "message": "User user8 logged in"}
+{"ts": "2025-05-02 09:01:57+00:00", "level": "INFO", "message": "User user27 logged out"}
+{"ts": "2025-05-02 09:01:58+00:00", "level": "ERROR", "message": "File file_55.dat failed to process"}
+{"ts": "2025-05-02 09:01:58+00:00", "level": "ERROR", "message": "Database transaction tx1049 rolled back"}
+{"ts": "2025-05-02 09:01:59+00:00", "level": "INFO", "message": "User user64 logged in"}
+{"ts": "2025-05-02 09:01:59+00:00", "level": "DEBUG", "message": "Cache miss for key key_50"}
+{"ts": "2025-05-02 09:01:59+00:00", "level": "DEBUG", "message": "Cache miss for key key_26"}
+{"ts": "2025-05-02 09:01:59+00:00", "level": "DEBUG", "message": "Cache miss for key key_37"}
+{"ts": "2025-05-02 09:02:00+00:00", "level": "DEBUG", "message": "Debugging session started for user user79"}
+{"ts": "2025-05-02 09:02:01+00:00", "level": "INFO", "message": "Database transaction tx4605 committed"}
+{"ts": "2025-05-02 09:02:01+00:00", "level": "INFO", "message": "User user61 logged in"}
+{"ts": "2025-05-02 09:02:01+00:00", "level": "ERROR", "message": "Database transaction tx3769 rolled back"}
+{"ts": "2025-05-02 09:02:02+00:00", "level": "DEBUG", "message": "Cache miss for key key_41"}
+{"ts": "2025-05-02 09:02:02+00:00", "level": "WARNING", "message": "Memory usage at 95% exceeded threshold"}
+{"ts": "2025-05-02 09:02:02+00:00", "level": "INFO", "message": "User user1 logged in"}
+{"ts": "2025-05-02 09:02:03+00:00", "level": "INFO", "message": "File file_69.dat processed successfully"}
+{"ts": "2025-05-02 09:02:04+00:00", "level": "INFO", "message": "User user97 logged in"}
+{"ts": "2025-05-02 09:02:05+00:00", "level": "WARNING", "message": "Connection to host14.example.com timed out"}
+{"ts": "2025-05-02 09:02:05+00:00", "level": "INFO", "message": "Database transaction tx1603 committed"}
+{"ts": "2025-05-02 09:02:06+00:00", "level": "INFO", "message": "User user50 logged in"}
+{"ts": "2025-05-02 09:02:06+00:00", "level": "DEBUG", "message": "Debugging session started for user user72"}
+{"ts": "2025-05-02 09:02:07+00:00", "level": "DEBUG", "message": "Cache miss for key key_46"}
+{"ts": "2025-05-02 09:02:07+00:00", "level": "INFO", "message": "Database transaction tx4036 committed"}
+{"ts": "2025-05-02 09:02:08+00:00", "level": "INFO", "message": "User user67 logged in"}
+{"ts": "2025-05-02 09:02:08+00:00", "level": "DEBUG", "message": "Cache miss for key key_45"}
+{"ts": "2025-05-02 09:02:09+00:00", "level": "ERROR", "message": "File file_30.dat failed to process"}
+{"ts": "2025-05-02 09:02:09+00:00", "level": "DEBUG", "message": "Cache miss for key key_42"}
+{"ts": "2025-05-02 09:02:10+00:00", "level": "INFO", "message": "User user29 logged out"}
+{"ts": "2025-05-02 09:02:11+00:00", "level": "INFO", "message": "Database transaction tx9306 committed"}
+{"ts": "2025-05-02 09:02:12+00:00", "level": "ERROR", "message": "Database transaction tx3834 rolled back"}
+{"ts": "2025-05-02 09:02:12+00:00", "level": "WARNING", "message": "Connection to host2.example.com timed out"}
+{"ts": "2025-05-02 09:02:12+00:00", "level": "WARNING", "message": "Memory usage at 90% exceeded threshold"}
+{"ts": "2025-05-02 09:02:13+00:00", "level": "INFO", "message": "Database transaction tx4410 committed"}
+{"ts": "2025-05-02 09:02:13+00:00", "level": "ERROR", "message": "File file_29.dat failed to process"}
